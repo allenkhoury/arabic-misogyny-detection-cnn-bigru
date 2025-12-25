@@ -1,0 +1,7 @@
+tensorflow
+pandas
+numpy
+emoji
+pyarabic
+gensim
+fasttext
